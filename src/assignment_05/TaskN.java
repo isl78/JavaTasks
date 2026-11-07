@@ -42,4 +42,4 @@ public class TaskN {
             System.out.print(arr[i] + " ");
         }
     }
-//}
+}
